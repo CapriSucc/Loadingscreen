@@ -1,0 +1,23 @@
+
+// Camltee Load
+
+Firstly I'd like to thank you for purchasing this loading screen.  It means a huge deal to me and hopefully you'll be satifised with it. Secondly, I'd like to encourage you to contact me (on steam please) if you discover that someone has leaked this loading screen. It is of great importance to me that this keeps selling as this supports my goal(s). Thank you.
+
+--Music
+If you want music on your loading screen, simply drop .OGG files in the music folder and edit the name, if need be, to say what song it is playing. You can drop as many as you'd like. The script will then choose, at random, one of these songs and play them whilst displaying their name. If you do not want the music to be played, simply empty the music  folder and a text-slider will be shown instead (of which you can edit of course). This is good for those who perhaps do not want to play any music. It is important though that the music folder is clear of ANY files if you do not want it to play music and make sure it is only .OGG files, other files in there will make the script fail.
+
+You can change volume on index page.
+
+--Images
+You can have (as of now) 9 background images. This of course, can be edited by going to style.css in the css folder and then to the index page and remove those divs  within the background div at the top of the body tag. This will result in the amount of  divs (make sure the names are correct as with in the style.css) that is in the index page for background - will show. Very easy, if you got a problem send a ticker! Same goes with side pictures.
+
+--Edit HTML
+You can freely edit the HTML if you want, but if you simply want to change the text part, simply head to the config.php file and edit within that file and it will update the main file. Please do check on the loading page in your browser before you release it on the live server, as there may be configurations that you need to do.
+
+--Copyright & License
+This is a copyrighted script and may not be redistributed, uploaded or sold to a third party - this includes doing it to your friends. Please have some respect towards what has gone in to this project and do not share it, please. 
+
+
+
+King Regards,
+Floodify - Creator of this Striper Loading, Tellus Load & Camltee Load

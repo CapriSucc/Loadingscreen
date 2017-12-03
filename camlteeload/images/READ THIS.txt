@@ -1,0 +1,7 @@
+It's crucial  that the names of the images you are replacing are the EXACT image as the original ones. Make sure the file extenstion (jpg,png) is same as well, otherwise it will not work.
+
+Try to keep the same size as the original pictures, might break otherwise. 
+
+Questions? - Send a ticket <3
+
+//Floodify
